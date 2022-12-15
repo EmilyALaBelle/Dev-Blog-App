@@ -1,6 +1,14 @@
-# AngularBlogApp
+# Developer Blog App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
+
+## Deployed App
+
+http://dev-blog-app-el.s3-website-us-east-1.amazonaws.com/
+
+## Contact
+
+Emily LaBelle - [Linkdin](https://www.linkedin.com/in/emilylabelledev/) - emilylabelle8@gmail.com
 
 ## Development server
 
@@ -21,6 +29,9 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Acknowledgments
+[Dev Blog App](https://www.youtube.com/watch?v=Z5QRCctfcLI)
 
 ## Further help
 
